@@ -1,0 +1,11 @@
+#uniform_table, .uniform_content, #history_table, .history_content{
+    border-width: 0.5px;
+    border-color: black;
+    text-align: center;
+}
+#uniform_table{
+    width: 60%;
+}
+#history_table{
+    width: 35%;
+}

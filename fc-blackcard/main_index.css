@@ -1,0 +1,23 @@
+ol{
+    border: 1px solid black;
+    width: 30%;
+    margin-block-start: 30px;
+    margin-block-end: 60px;
+}
+#index{
+    text-indent: -23px;
+    margin-block-start: 20px;
+    margin-block-end: 20px;
+}
+#index_content{
+    margin-block-end: 20px;
+}
+#outline, #lineup, #uniform, #history, #activity{
+    border-bottom: 1px solid;
+    padding-bottom: 15px;
+    width: 90%;
+    margin-block-end: 15px;
+}
+.main_content{
+    margin-block-end: 30px;
+}

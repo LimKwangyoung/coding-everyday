@@ -1,0 +1,40 @@
+table, td{
+    border: 1px solid;
+}
+table{
+    width: 80%;
+    border-spacing: 0px;   
+}
+td{
+    border-top-color: lightgray;
+    border-bottom-color: lightgray;
+}
+#club_logo{
+    text-align: center;
+    border-top-color: black;
+}
+#row_header_1, #row_header_2, .col_header{
+    font-weight: bold;
+    text-align: center;
+    border-left-color: black;
+}
+#row_header_1, #row_header_2{
+    font-size: x-large;
+    color: white;
+    border-right-color: black;
+}
+#row_header_1{
+    background-color: black;
+}
+#row_header_2{
+    background-color: #D22D26;
+}
+.col_header{
+    color: white;
+    background-color: black;
+    border-right-color: lightgray;
+}
+.table_content{
+    text-indent: 10px;
+    border-left-color: lightgray;
+}
